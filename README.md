@@ -1,7 +1,5 @@
 ## My Personal Repository
 
-This is from the test branch
-
 <!--
 **JereGM/JereGM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
